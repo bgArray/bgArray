@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=
-ZhugeLiangandBaguaArray&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ZhugeLiangandBaguaArray&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED&hide_border=true) -->
 
 
 ### Hi there 👋
