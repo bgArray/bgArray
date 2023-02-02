@@ -2,6 +2,14 @@
 
 ### Hi there 👋
 
+I'm bgArray(刘麓宽), a junior high school student in Shenzhen, China.
+
+I'm a fan of coding and developing, and I may like anything that needs thinking. 
+Now I am developing some python projects that's about music, OCR, AI. 
+Also, I like playing Minecraft, you can find many programs about Minecraft in my or Trim Organization's repositories.
+In addition, I take part in FRC this year and hope to meet some excellent players!
+
+At last, I welcome everyone to make friends with me and I enjoy it!
 <!--
 **ZhugeLiangandBaguaArray/ZhugeLiangandBaguaArray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
