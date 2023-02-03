@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm Lukuan Liu(刘麓宽), a junior high school student in Shenzhen, China.
+I'm bgArray, a junior high school student in Shenzhen, China.
 
 I'm a fan of coding and developing, and I may like anything that needs thinking. 
 Now I am developing some python projects that's about music, OCR, AI. 
