@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZhugeLiangandBaguaArray&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bgArray&count_private=true&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=DEG,FFB6C1,6495ED&hide_border=true" />
 
 ### Hi there 👋
 
@@ -11,7 +11,7 @@ In addition, I take part in FRC this year and hope to meet some excellent player
 
 At last, I welcome everyone to make friends with me and I enjoy it!
 <!--
-**ZhugeLiangandBaguaArray/ZhugeLiangandBaguaArray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bgArray/bgArray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
